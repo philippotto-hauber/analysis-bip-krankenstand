@@ -6,7 +6,7 @@ This repo replicates and explores different regression specifications to gauge t
 | variable | mnemonic |
 | -------- | -------- |
 | DBIP     | percent change in GDP |
-| DKRANKENTAGE | change in sick leave |
+| DKRANKTAGEX11 | change in (seasonally adjusted) sick leave  |
 | DBIPI | percent change in (export-weighted) foreign GDP |
 | IFO | ifo business climate index |
 | ALQ | unemployment rate |
